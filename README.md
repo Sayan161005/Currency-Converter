@@ -96,10 +96,10 @@ fetch(`https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currenci
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/<your-repo-name>.git
+git clone https://github.com/Sayan161005/Currency-Converter.git
 
 # 2. Move into the project folder
-cd <your-repo-name>
+cd Currency-Converter
 
 # 3. Install dependencies
 npm install
